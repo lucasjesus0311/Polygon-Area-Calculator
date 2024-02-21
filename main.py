@@ -24,3 +24,5 @@ main(module='test_module', exit=False)
 #teste
 
 #teste 2
+
+#teste 3
