@@ -19,14 +19,3 @@ print(sq)
 # Run unit tests automatically
 main(module='test_module', exit=False)
 
-#Teste modulos
-
-#teste
-
-#teste 2
-
-#teste 3
-
-#teste 4
-
-#teste update 1
