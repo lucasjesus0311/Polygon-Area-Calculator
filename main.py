@@ -18,3 +18,7 @@ print(sq)
 
 # Run unit tests automatically
 main(module='test_module', exit=False)
+
+#Teste modulos
+
+#teste
