@@ -20,3 +20,5 @@ print(sq)
 main(module='test_module', exit=False)
 
 #teste
+
+#teste3
